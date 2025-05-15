@@ -35,6 +35,3 @@ A full-stack e-commerce web application featuring a responsive Angular frontend 
 - 🚀 Easy to extend with features like order history, admin dashboard, etc.
 
 ---
-
-Let me know if you want to include a Stripe test card section, add licensing, or deploy instructions (e.g. Docker, Vercel, Heroku).
-
